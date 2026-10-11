@@ -1,1 +1,3 @@
 # Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+
+🚀 In this in-depth tutorial, learn how to build an end-to-end Medical Chatbot using Generative AI. We’ll walk through every component—from integrating Large Language Models (LLMs) to using LangChain, Pinecone for vector search, and deploying it with Flask!
